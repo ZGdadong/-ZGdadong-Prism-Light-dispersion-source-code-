@@ -1,10 +1,10 @@
 # 棱镜：光散（源代码）
-
+![输入图片说明](%E8%AE%B0%E5%BE%97%E7%9C%8BREADME.md/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220531192352.png)
 #### 介绍
 此游戏通过rpg maker mv制作，为了让更多的人得到帮助，我在制作游戏的过程中，全程使用可视化编程（就是那种拥有小学语文水平的人都能看懂的）。
 这个游戏的制作初衷就是为了帮助更多人走出精神内耗，摆脱过去心理创伤带来的负面情绪，所以这个游戏为完全开源的公益项目，你可以在github，gitee，rpg.blue或者官方群里面下载到完整项目。
 官方1群：282480309（内有rpg maker mv安装包）
-![输入图片说明](https://images.gitee.com/uploads/images/2022/0531/190321_c9d0f6a3_11076942.jpeg "官方1群.jpg")
+![输入图片说明](%E8%AE%B0%E5%BE%97%E7%9C%8BREADME.md/%E5%AE%98%E6%96%B91%E7%BE%A4.jpg)
 #### 软件架构
 本游戏是由rpg maker mv制作。除了占比极少的ui部分，其余部分全部使用内置的可视化事件编程技术。
 
@@ -36,8 +36,6 @@
 #### 特技
 
 1.  使用最基础且容易入门的游戏引擎rpg maker mv，此游戏引擎支持在不同系统打包发行游戏。
-2.  北尘独立游戏工作室 TapTap [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+2.  北尘独立游戏工作室 TapTap [https://www.taptap.com/user/458744315/posts]。
+3.  你可以在gitub []上下载此文件。
+
