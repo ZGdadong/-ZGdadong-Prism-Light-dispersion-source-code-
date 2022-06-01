@@ -40,7 +40,7 @@ https://jq.qq.com/?_wv=1027&k=qLGLtbHh (点击此链接直接入群)
 
 1.  使用最基础且容易入门的游戏引擎rpg maker mv，此游戏引擎支持在不同系统打包发行游戏。
 2.  北尘独立游戏工作室 TapTap https://www.taptap.com/user/458744315/posts 
-3.  你可以在github （https://github.com/ZGdadong/-ZGdadong-Prism-Light-dispersion-source-code-.git） 上下载此文件。
+3.  你可以在github （https://github.com/ZGdadong/-ZGdadong-Prism-Light-dispersion-source-code-.git) 上下载此文件。
 4.  你可以在gitee   (https://gitee.com/beichen-independent-game/prism-dispersion-source.git)         上下载此文件。
 
 #### 制作说明
