@@ -40,7 +40,8 @@ https://jq.qq.com/?_wv=1027&k=qLGLtbHh (点击此链接直接入群)
 
 1.  使用最基础且容易入门的游戏引擎rpg maker mv，此游戏引擎支持在不同系统打包发行游戏。
 2.  北尘独立游戏工作室 TapTap https://www.taptap.com/user/458744315/posts 
-3.  你可以在gitub(https://github.com/ZGdadong/-ZGdadong-Prism-Light-dispersion-source-code-.git)上下载此文件。
+3.  你可以在github （https://github.com/ZGdadong/-ZGdadong-Prism-Light-dispersion-source-code-.git） 上下载此文件。
+4.  你可以在gitee   (https://gitee.com/beichen-independent-game/prism-dispersion-source.git)         上下载此文件。
 
 #### 制作说明
 这个游戏做了两年，从大一到大三中间有很多次有放弃，但是每次看到有青少年因为精神问题而自寻短见，我就重新开始做。因为我经历过几乎一样的经历，我知道他们其实是很需要被帮助的，但是因为每个人在互联网上都扮演虚拟而非真实的角色。我把这些经历的所思所得整理成一个最容易被青少年接受的形式——也就是做成游戏。
